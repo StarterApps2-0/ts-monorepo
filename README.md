@@ -1,0 +1,1 @@
+## Monorepo Starter Project
